@@ -8,7 +8,7 @@
       "ScopeData": "string",
       "ApiPrivateKey": "string",
       "ApiPublicKey": "string",
-      "UsageCount": "integer"
+      "UsageCount": "int"
     },
     {
       "Name": "string",
@@ -18,7 +18,7 @@
       "ScopeData": "string",
       "ApiPrivateKey": "string",
       "ApiPublicKey": "string",
-      "UsageCount": "integer"
+      "UsageCount": "int"
     },
     {
       "Name": "string",
@@ -28,7 +28,7 @@
       "ScopeData": "string",
       "ApiPrivateKey": "string",
       "ApiPublicKey": "string",
-      "UsageCount": "integer"
+      "UsageCount": "int"
     }
   ]
 }
