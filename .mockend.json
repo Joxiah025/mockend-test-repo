@@ -1,0 +1,34 @@
+{
+  "ApiLists": [
+    {
+      "Name": "string",
+      "AppOwnerKey": "string",
+      "Description": "string",
+      "IsActive": "boolean",
+      "ScopeData": "string",
+      "ApiPrivateKey": "string",
+      "ApiPublicKey": "string",
+      "UsageCount": "integer"
+    },
+    {
+      "Name": "string",
+      "AppOwnerKey": "string",
+      "Description": "string",
+      "IsActive": "boolean",
+      "ScopeData": "string",
+      "ApiPrivateKey": "string",
+      "ApiPublicKey": "string",
+      "UsageCount": "integer"
+    },
+    {
+      "Name": "string",
+      "AppOwnerKey": "string",
+      "Description": "string",
+      "IsActive": "boolean",
+      "ScopeData": "string",
+      "ApiPrivateKey": "string",
+      "ApiPublicKey": "string",
+      "UsageCount": "integer"
+    }
+  ]
+}
